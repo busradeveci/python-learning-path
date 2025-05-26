@@ -2,8 +2,6 @@
 
 Welcome to my Python learning repository! This repo contains organized folders and projects that reflect my journey as I learn Python from the basics to more advanced topics like data processing and GUI development.
 
----
-
 ## 📁 Directory Overview
 
 | Folder | Description |
